@@ -1,5 +1,4 @@
-Memory game · MD
-Copiar
+Memory game 
 
 # 🃏 Memory Game — De Letras a Imágenes
  
