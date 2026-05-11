@@ -5,6 +5,8 @@ Memory game
 ## Descripción del Proyecto
  
 **Memory Game** es un juego de cartas de memoria donde el jugador debe encontrar parejas de cartas iguales. La versión original usaba letras; esta nueva versión usa **imágenes** representadas como cartas físicas con animación de volteo.
+
+![Imagen del artículo sobre Markdown](https://play-lh.googleusercontent.com/XuBmdh_n34GJy3VOLsZLV8q-b5t-7rwmEYo1VcjMKtnh_7jOCDot0YWGPrUXP-S8_6_JeaV99cT_BYzUaHXPWhc)
  
 ---
  
